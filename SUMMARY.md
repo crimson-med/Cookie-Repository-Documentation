@@ -3,8 +3,12 @@
 ## Overview
 
 * [Introduction](README.md)
+* [Endpoints](endpoints.md)
 
-## Methods
+## API
 
+* Authentification
 * [Defining Methods](methods.md)
+
+## Examples
 
