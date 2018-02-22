@@ -1,3 +1,14 @@
-# My Awesome API
+# Cookie Repository Documentation & Backend API
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+This is the offcial documentation for working with the **Cookie Repository** and the **Backend API**.
+
+For demonstration purposes I will be using:
+
+ - **Postman** (Executing GET/POST Requests).
+ 
+ - **JSON** used as return from the API.
+ 
+ - **Javascript** for simple examples.
+___
+
+Written by **The Falcon** alias **[ ]**.
