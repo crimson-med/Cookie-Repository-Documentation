@@ -1,5 +1,7 @@
 # Summary
 
+## General
+
 * [Introduction](README.md)
 * [Endpoints](endpoints.md)
 
