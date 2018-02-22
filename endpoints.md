@@ -16,5 +16,9 @@ Here is a list of all the accessible Endpoints of the **Cookie Repository API**.
 
 [`/api/contribute`](/contribute.md)
 
+[`/api/scripts`](/scripts.md)
+
+[`/api/vote`](/vote.md)
+
 
 
