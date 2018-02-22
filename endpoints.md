@@ -8,6 +8,8 @@ Here is a list of all the accessible Endpoints of the **Cookie Repository API**.
 
 [`/api/stats`](/stats.md)
 
+[`/api/finance`
+](/finance.md)
 ## Authentification
 
 [`/api/auth`](/authentification.md)
