@@ -17,6 +17,9 @@ Parameters(**Body not Header**):
  - **password** (hashed --> sha256)
  - **stats** (can be null)
  - **finance** (can be null)
+ 
+> **stats** represents the data to update the server statistics (Format to be defined).
+**finance** represents the data from the packet `XX` to let us keep trac of average price evolution (Format to be defined).
 
 ### Response
 
