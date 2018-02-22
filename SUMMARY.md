@@ -5,15 +5,15 @@
 * [Introduction](README.md)
 * [Endpoints](endpoints.md)
 
-
 ## Endpoint Details
 
 * [API](api.md)
+* [Stats](stats.md)
+* [Finance](finance.md)
 * [Authentification](authentification.md)
 * [Contribute](contribute.md)
 * [Scripts](scripts.md)
 * [Vote](vote.md)
-* [Stats](stats.md)
 
 ## Examples
 
