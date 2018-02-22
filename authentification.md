@@ -19,7 +19,8 @@ Parameters(**Body not Header**):
  - **finance** (can be null)
  
 > **stats** represents the data to update the server statistics (Format to be defined).
-**finance** represents the data from the packet `XX` to let us keep trac of average price evolution (Format to be defined).
+
+>**finance** represents the data from the packet `XX` to let us keep trac of average price evolution (Format to be defined).
 
 ### Response
 
