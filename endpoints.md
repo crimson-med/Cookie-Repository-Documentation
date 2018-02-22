@@ -22,5 +22,8 @@ Here is a list of all the accessible Endpoints of the **Cookie Repository API**.
 
 [`/api/vote`](/vote.md)
 
+___
+
+Written by **The Falcon** alias **[ ]**.
 
 
