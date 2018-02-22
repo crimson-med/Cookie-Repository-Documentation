@@ -7,7 +7,7 @@
 
 ## API
 
-* Authentification
+* [Authentification](authentification.md)
 * [Defining Methods](methods.md)
 
 ## Examples
