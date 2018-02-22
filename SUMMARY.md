@@ -1,6 +1,6 @@
 # Summary
 
-## Overview
+## Endpoint Details
 
 * [Introduction](README.md)
 * [Endpoints](endpoints.md)
@@ -11,7 +11,6 @@
 * [Scripts](scripts.md)
 * [Vote](vote.md)
 * [Stats](stats.md)
-* Stats
 
 ## Examples
 
