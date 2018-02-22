@@ -10,7 +10,7 @@
 * [API](api.md)
 * [Stats](stats.md)
 * [Finance](finance.md)
-* [Authentification](authentification.md)
+* [Authentication](authentification.md)
 * [Contribute](contribute.md)
 * [Scripts](scripts.md)
 * [Vote](vote.md)

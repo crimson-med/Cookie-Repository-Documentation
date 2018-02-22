@@ -10,11 +10,12 @@ Here is a list of all the accessible Endpoints of the **Cookie Repository API**.
 
 [`/api/finance`
 ](/finance.md)
-## Authentification
 
-[`/api/auth`](/authentification.md)
+## Authentication
 
-[`/api/auth/logout`](/authentification.md)
+[`/api/auth`](/Authentication.md)
+
+[`/api/auth/logout`](/Authentication.md)
 
 ## Scripting
 
