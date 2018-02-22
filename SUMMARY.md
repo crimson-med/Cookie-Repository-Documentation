@@ -4,13 +4,14 @@
 
 * [Introduction](README.md)
 * [Endpoints](endpoints.md)
-* Endpoint Details
+* [Endpoint Details](endpoint-details.md)
 * [API](api.md)
 * [Authentification](authentification.md)
 * [Contribute](contribute.md)
 * [Scripts](scripts.md)
 * [Vote](vote.md)
-* [Defining Methods](methods.md)
+* [Stats](stats.md)
+* Stats
 
 ## Examples
 
