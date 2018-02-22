@@ -6,7 +6,7 @@
 
 This endpoint is where you can authenticate. This will create a session so you will need to **save the returned cookie**.
 
-Once authed you will be able to access the following endpoints: **auth/logout, contribute, vote.**
+Once authenticated you will be able to access the following endpoints: **auth/logout, contribute, vote.**
 
 ### Request
 
@@ -33,6 +33,36 @@ Parameters(**Body not Header**):
 
 ```json
 {status:"401",message:"Account Unauthorized"}
+```
+___
+
+## /api/auth/logout
+
+### Introduction
+
+This endpoint is where you can de-authenticate. This will destroy the current session.
+
+Once de-authenticated you will **not** be able to access the following endpoints: **auth/logout, contribute, vote.**
+
+### Request
+
+####POST REQUEST
+
+Parameters(**Body not Header**):
+
+ - None
+
+### Response
+
+#### Success
+
+```json
+{status:"200",message:"Logged Out Succesful"}
+```
+#### Failure
+
+```json
+{status:"401",message:"Logged Out Unsuccesful"}
 ```
 
 ___
