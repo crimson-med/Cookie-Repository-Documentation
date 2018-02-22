@@ -2,4 +2,4 @@
 
 Here is a list of all the accessible Endpoints of the **Cookie Repository API**.
 
-[`/api/auth`](/Authentification.md)
+[`/api/auth`](/authentification.md)
