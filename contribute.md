@@ -34,7 +34,7 @@ Parameters(**Body not Header**):
 #### Wrong File Type
 
 ```json
-{status:"400",message:"Wrong file type please make sure to upload '.js'."}
+{status:"400",message:"Wrong file type please make sure to upload .js"}
 ```
 
 ___
