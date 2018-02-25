@@ -27,7 +27,7 @@ Parameters(**Body not Header**):
 #### Success
 
 ```json
-{status:"200",message:"Account Authorized"}
+{status:"200",message:"Vote Successful"}
 ```
 #### Failure
 
