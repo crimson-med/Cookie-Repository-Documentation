@@ -30,6 +30,13 @@ Parameters(**Body not Header**):
 ```json
 {status:"402",message:"An error occured please contact an administrator."}
 ```
+
+#### Wrong File Type
+
+```json
+{status:"400",message:"Wrong file type please make sure to upload '.js'."}
+```
+
 ___
 
 Written by **The Falcon** alias **[ ]**.
