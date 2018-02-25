@@ -13,7 +13,7 @@ This endpoint is to send scripts/themes to the **Cookie Touch Repository**. This
 Parameters(**Body not Header**):
  - **uploadedFile**
  
-> **uploadedFile** is the key to the file whoch should be uploaded in **.js** format.
+> **uploadedFile** is the key to the file which should be uploaded in **.js** format.
 
 ![fileUpload](/assets/fileUpload.png)
 
@@ -22,17 +22,14 @@ Parameters(**Body not Header**):
 #### Success
 
 ```json
-{"title":"Cookie Touch API","version":"1.0.0.0","description":"This is the API for handling themes and scripts in Cookie Touch."}
+{status:"200",message:"Upload Successful."}
 ```
-> **title** returns the current title of the API.
-
-> **version** returns the current version of the API.
-
-> **description** returns the current description of the API.
 
 #### Failure
 
-If you can't contact this endpoint this means the API is offline. If this is the case please contact me or contact a member of the Admin team on discord.
+```json
+{status:"402",message:"An error occured please contact an administrator."}
+```
 ___
 
 Written by **The Falcon** alias **[ ]**.
