@@ -32,7 +32,7 @@ Parameters(**Body not Header**):
 #### Failure
 
 ```json
-{status:"401",message:"Account Unauthorized"}
+{status:"402",message:"An error occured please contact an administrator."}
 ```
 
 #### Already Voted
