@@ -1,16 +1,21 @@
 # Contribute Endpoint
 
-## /api
+## /api/contribute
 
 ### Introduction
 
-This endpoint is the global API endpoint. It gives general information about the API.
+This endpoint is to send scripts/themes to the **Cookie Touch Repository**. This endpoint is only accessible to authenticated users.
 
 ### Request
 
 #### POST Request
 
-No parameters needed.
+Parameters(**Body not Header**):
+ - **uploadedFile**
+ 
+> **uploadedFile** is the key to the file whoch should be uploaded in **.js** format.
+
+![fileUpload](/assets/fileUpload.png)
 
 ### Response
 
