@@ -16,19 +16,17 @@ No parameters needed.
 
 #### Success
 
-returns an array of Script Structures:
-[
-, 
-Script2 Structure
-]
-```
+Returns an array of Script Structures:
+
+ -  [Script Structure](/data-structures/script-structure.md)
+
 > on **success** the content of the file will directly be sent back as **raw**.
 
 #### Failure
 
 ```json
 {status:"402",message:"An error occured please contact an administrator."}
-
+```
 ___
 
 Written by **The Falcon** alias **[ ]**.
