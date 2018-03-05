@@ -118,4 +118,6 @@ Vote Down = Original Value -1
 ```json
 "vote": 1
 ```
+___
 
+Written by **The Falcon** alias **[ ]**.
