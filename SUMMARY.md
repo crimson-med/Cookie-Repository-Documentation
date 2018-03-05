@@ -18,3 +18,5 @@
 
 ## Data Structures
 
+* [Script Structure](data-structures/script-structure.md)
+
