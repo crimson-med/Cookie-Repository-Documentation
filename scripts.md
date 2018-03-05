@@ -16,19 +16,11 @@ No parameters needed.
 
 #### Success
 
-```json
-{
- "id": 1,
- "name": "Test Script",
- "version": "1.0.0",
- "type": 1,
- "author": "The Falcon",
- "tags": "fishing, incarnam, kamas",
- "description": "A simple test script for incarnam.",
- "uploaded": "2018-02-25T06:48:00.000Z",
- "filename": "test.js",
- "vote": 1
-}
+returns an array of Script Structures:
+[
+, 
+Script2 Structure
+]
 ```
 > on **success** the content of the file will directly be sent back as **raw**.
 
