@@ -109,11 +109,11 @@ This field simply represents the **script's file name**. This will give back the
 
 This field simply represents the **script's  vote  level**. This number is calculated through this:
 
-Original Value = 0
+ - **Original Value** = 0
 
-Vote Up = Original Value + 1
+ - **Vote Up** = Original Value + 1
 
-Vote Down = Original Value -1 
+ - **Vote Down** = Original Value -1 
 
 ```json
 "vote": 1
