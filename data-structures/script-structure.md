@@ -98,49 +98,18 @@ This field simply represents the **script's uploaded  time**. This will give bac
 
 ### filename
 
-This field simply represents the **script's file name**. This will give back the date the script was uploaded to the repository.
+This field simply represents the **script's file name**. This will give back the file name of the script.
 
 ```json
-"uploaded": "2018-02-25T06:48:00.000Z"
+"filename": "test.js"
 ```
 
 
+### vote
 
+This field simply represents the **script's  vote  level**. This number represents the vote level for the current script.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+```json
+"filename": "test.js"
+```
 
