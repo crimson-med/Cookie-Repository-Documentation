@@ -107,9 +107,15 @@ This field simply represents the **script's file name**. This will give back the
 
 ### vote
 
-This field simply represents the **script's  vote  level**. This number represents the vote level for the current script.
+This field simply represents the **script's  vote  level**. This number is calculated through this:
+
+Original Value = 0
+
+Vote Up = Original Value + 1
+
+Vote Down = Original Value -1 
 
 ```json
-"filename": "test.js"
+"vote": 1
 ```
 
