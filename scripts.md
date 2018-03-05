@@ -4,7 +4,7 @@
 
 ### Introduction
 
-This endpoint is to get the script file from the **Cookie Touch Repository**. This endpoint is accessible to everyon.
+This endpoint is to get the script file from the **Cookie Touch Repository**. This endpoint is accessible to everyone.
 
 ### Request
 
