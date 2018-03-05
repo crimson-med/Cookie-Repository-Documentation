@@ -1,4 +1,4 @@
-# Scripts Endpoint
+# Script Endpoint
 
 ## /api/script
 
@@ -28,7 +28,9 @@ file output
 
 ```json
 {status:"402",message:"An error occured please contact an administrator."}
+```
 
 ___
 
 Written by **The Falcon** alias **[ ]**.
+

@@ -12,6 +12,7 @@
 * [Finance](finance.md)
 * [Authentication](authentification.md)
 * [Contribute](contribute.md)
+* [Script](script.md)
 * [Scripts](scripts.md)
 * [Vote](vote.md)
 
