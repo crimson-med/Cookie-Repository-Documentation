@@ -16,5 +16,5 @@
 * [Scripts](scripts.md)
 * [Vote](vote.md)
 
-## Examples
+## Data Structures
 

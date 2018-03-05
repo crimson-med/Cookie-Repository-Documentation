@@ -4,23 +4,31 @@
 
 ### Introduction
 
-This endpoint is to get the script file from the **Cookie Touch Repository**. This endpoint is accessible to everyone.
+This endpoint is to get the list of all scripts in the **Cookie Touch Repository**. This endpoint is accessible to everyone.
 
 ### Request
 
 #### POST Request
 
-Parameters(**Body not Header**):
- - **scriptID**
- 
-> **scriptID** is the ID of the script to dpwnload the data from.
+No parameters needed.
 
 ### Response
 
 #### Success
 
 ```json
-file output
+{
+ "id": 1,
+ "name": "Test Script",
+ "version": "1.0.0",
+ "type": 1,
+ "author": "The Falcon",
+ "tags": "fishing, incarnam, kamas",
+ "description": "A simple test script for incarnam.",
+ "uploaded": "2018-02-25T06:48:00.000Z",
+ "filename": "test.js",
+ "vote": 1
+}
 ```
 > on **success** the content of the file will directly be sent back as **raw**.
 
